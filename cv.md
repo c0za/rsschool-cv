@@ -60,9 +60,46 @@ Head of technical support department
 - Native Russian
 - Intermediate English
 - Driving License (Category B)
-- Computer literacy (1C: Enterprise)
+- Computer literacy (1C: Enterprise, Visual Studio Code)
 - Hobbies: running, cycling, sup-board, photography
 - Military service 2006-2007
+
+### Code examples
+
+```html
+<div class="container">
+  <aside class="sidebar">
+    <nav class="nav">
+      <ul class="nav-menu">
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <svg class="icon icon-home" width="20" height="19">
+              <use xlink:href="img/icons.svg#home"></use>
+            </svg>
+            <span class="nav-text">Home</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <svg class="icon icon-trending" width="20" height="19">
+              <use xlink:href="img/icons.svg#trending"></use>
+            </svg>
+            <span class="nav-text">Trending</span>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link">
+            <svg class="icon icon-subscriptions" width="20" height="19">
+              <use xlink:href="img/icons.svg#subscriptions"></use>
+            </svg>
+            <span class="nav-text">Subscriptions</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </aside>
+</div>
+```
 
 ### References
 
