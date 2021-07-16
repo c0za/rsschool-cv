@@ -49,20 +49,20 @@ Head of technical support department
 
 ### Personal qualities
 
- Articulate
- Broad-minded
- Dependable
- Determined
- Initiative
- Versatile
+- Punctual
+- Neat
+- Teamwork skills
+- Executive
+- Initiative
 
 ### Special skills
 
- Native Russian
- Intermediate English
- Driving License (Category B)
- Computer literacy (1C: Enterprise)
- Hobbies: running, cycling, sup-board
+- Native Russian
+- Intermediate English
+- Driving License (Category B)
+- Computer literacy (1C: Enterprise)
+- Hobbies: running, cycling, sup-board, photography
+- Military service 2006-2007
 
 ### References
 
