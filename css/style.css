@@ -3,8 +3,17 @@ body {
   font-size: 18px;
   display: flex;
   justify-content: center;
+<<<<<<< HEAD
 }
 
 .rs_logo {
+  width: 200px;
+=======
+
+>>>>>>> ac16206 (feat: add semantic tags)
+}
+
+.rs_logo {
+  margin-left: 0px;
   width: 200px;
 }
