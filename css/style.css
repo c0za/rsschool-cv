@@ -4,6 +4,7 @@ body {
   display: flex;
   justify-content: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 
 .rs_logo {
@@ -11,9 +12,10 @@ body {
 =======
 
 >>>>>>> ac16206 (feat: add semantic tags)
+=======
+>>>>>>> c1850a3 (fix: update all files in this branch)
 }
 
 .rs_logo {
-  margin-left: 0px;
   width: 200px;
 }
