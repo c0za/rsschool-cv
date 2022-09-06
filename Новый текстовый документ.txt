@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +7,6 @@
   <title>CV</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
   <div class="container">
     <header class="main-header">
@@ -16,13 +14,13 @@
       <img src="src/logo.png" alt="Avatar">
     </header>
     <br>
-    <nav>
-      <div class="nav">
-        <a href="#Work-experience">Work experience</a>
-        <a href="#Personal-qualities">Personal qualities</a>
-        <a href="#Special-skills">Special skills</a>
-      </div>
-    </nav>
+     <nav>
+       <div class="nav">
+          <a href="#Work-experience">Work experience</a>
+          <a href="#Personal-qualities">Personal qualities</a> 
+          <a href="#Special-skills">Special skills</a>
+       </div>
+      </nav>
     <main>
       <section>
         <h2>Personal information</h2>
@@ -37,8 +35,7 @@
         <h2>Objective</h2>
         <p>To obtain employment in the field of of IT and front-end development, which will allow me to change my
           occupation,
-          communicate with new and interesting people, learn from them and develop my knowledge and knowledge of
-          English.
+          communicate with new and interesting people, learn from them and develop my knowledge and knowledge of English.
         </p>
         <h2>Education</h2>
         <p>
@@ -65,8 +62,7 @@
             <h4>POLARMAR LLC, May 2009 - September 2013</h4>
             <p>Rybinsk, Russia Service engineer</p>
             <ul>
-              <li>Design, soldering of printed circuit boards, installation and assembly of ship consoles using
-                attachments
+              <li>Design, soldering of printed circuit boards, installation and assembly of ship consoles using attachments
                 and navigation
                 equipment for boats of the Mongoose series</li>
             </ul>
@@ -106,11 +102,59 @@
         <br>
       </section>
     </main>
-    <footer class="footer">
+      <footer class="footer">
       <p><a href="https://github.com/c0za">My GitHub</a>, 2022</p>
       <p><a href="https://rs.school/js/"><img src="src/rs_school_js.svg" class="rs_logo" alt="rs_school_logo"></a></p>
     </footer>
   </div>
 </body>
-
 </html>
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+textarea {
+  background-color: #4b4b4b;
+  color: #CCCCCC;
+  border: none;
+  font-size: 1rem;
+}
+
+body {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  background-color: #4b4b4b;
+  color: #CCCCCC;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #1dac8d;
+}
+
+.rs_logo {
+  width: 200px;
+}
+
+.nav a {
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+
+
+
