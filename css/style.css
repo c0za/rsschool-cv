@@ -1,3 +1,8 @@
+* {
+
+  box-sizing: border-box;
+}
+
 textarea {
   background-color: #4b4b4b;
   color: #CCCCCC;
@@ -12,7 +17,12 @@ body {
   justify-content: center;
   background-color: #4b4b4b;
   color: #CCCCCC;
+}
 
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #1dac8d;
 }
 
 .rs_logo {
